@@ -67,7 +67,7 @@ Currently building my foundation in Networking, Linux, and Cybersecurity through
 
 🔗 Connect With Me
 
-- GitHub: "Your GitHub Profile" (https://github.com/)
+- GitHub: "Your GitHub Profile" (https://github.com/17manishy-alt)
 - LinkedIn: "Manish Yadav " (www.linkedin.com/in/manish-yadav-891832262)
 
 ---
